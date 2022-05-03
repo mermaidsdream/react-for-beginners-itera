@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Vasylyna Lykhogodenko",
+    "occupation": "Front-end Developer",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git"],
+    "projects": "Weather App, ToDo List, Randomizer of Jokes",
+    "languages": "English, Polish",
+    "email": "vasdev@gmail.com",
+    "phone": 380638875533
+  }
+]
